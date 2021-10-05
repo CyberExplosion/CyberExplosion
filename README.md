@@ -2,7 +2,7 @@
 - 👀 I’m interested in studying about Computer Science and Computer Vision
 - 🌱 I’m currently learning Concurrency
 - 💞️ I’m looking to collaborate on [nothing currently]
-- 📫 How to reach me: Email: magnumoptics@gmail.com
+- 📫 How to reach me: Email: kminhnguyen@outlook.com
 
 <!---
 CyberExplosion/CyberExplosion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
