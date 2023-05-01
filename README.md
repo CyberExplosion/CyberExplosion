@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyberExplosion
-- 👀 I’m interested in studying about Computer Science and Computer Vision
-- 🌱 I’m currently learning Concurrency
+- 👀 I’m interested in studying about Deep Learning
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on [nothing currently]
 - 📫 How to reach me: Email: kminhnguyen@outlook.com
 
